@@ -5,12 +5,12 @@ CRC uses Generator Polynomial which is available on both sender and receiver sid
 
 This generator polynomial represents key 1011. Another example is x<sup>2</sup> + 1 that represents key 101. 
 
-n : Number of bits in data to be sent from sender side. 
+n : Number of bits in data to be sent from sender side.<br> 
 
-k : Number of bits in the key obtained from generator polynomial.
+k : Number of bits in the key obtained from generator polynomial.<br>
 
-<u><b>Sender Side (Generation of Encoded Data from Data and Generator Polynomial (or Key)):</b></u>   
+<u><b>Sender Side (Generation of Encoded Data from Data and Generator Polynomial (or Key)):</b></u><br>   
 The binary data is first augmented by adding k-1 zeros in the end of the data Use modulo-2 binary division to divide binary data by the key and store remainder of division. Append the remainder at the end of the data to form the encoded data and send the same .  
 
-<u><b>Receiver Side (Check if there are errors introduced in transmission):</b></u>
+<u><b>Receiver Side (Check if there are errors introduced in transmission):</b></u><br>
 Perform modulo-2 division again and if remainder is 0, then there are no errors.  In this article we will focus only on finding the remainder i.e. check word and the code word.
