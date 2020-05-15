@@ -6,6 +6,7 @@ CRC uses Generator Polynomial which is available on both sender and receiver sid
 This generator polynomial represents key 1011. Another example is x<sup>2</sup> + 1 that represents key 101. 
 
 n : Number of bits in data to be sent from sender side. 
+
 k : Number of bits in the key obtained from generator polynomial.
 
 <u><b>Sender Side (Generation of Encoded Data from Data and Generator Polynomial (or Key)):</b></u>   
