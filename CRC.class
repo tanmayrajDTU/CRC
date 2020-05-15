@@ -1,0 +1,58 @@
+Êþº¾   7 _
+  0	 1 2 3
+ 4 5 6	 1 7
+  8
+  9 : ; < = >
+ 4 ? @ A B
+  C	  D E F G H I
+ 1 J K L M N O P rem [Z <init> ()V Code LineNumberTable xorOper 	([Z[ZII)V
+StackMapTable ! main ([Ljava/lang/String;)V Q <clinit>
+SourceFileCRCnew.java " # R S T Enter Frame size:  U V W java/util/Scanner X Y " Z [ \ Enter Frame: Enter Generator size:  Enter Generator: 
+ Sender Side:
+ Frame: V ] 
+ Generator :
+ Number of 0's to be appended:  
+ Message after appending 0's : & '   ! 
+The CRC bits are =  
+
+ Transmitted Frame:  
+ Receiver side :  
+ Enter the Frame size :  Error in Transmission ^ ] Enter the Receiver frame:  Remainder:  S
+ Since Remainder Is 0 Hence Message Transmitted From Sender To Receiver Is Correct [
+ Since Remainder Is Not 0 Hence Message Transmitted From Sender To Receiver Contains Error CRCnew java/lang/Object [Ljava/lang/String; java/lang/System out Ljava/io/PrintStream; java/io/PrintStream print (Ljava/lang/String;)V in Ljava/io/InputStream; (Ljava/io/InputStream;)V nextInt ()I (I)V exit !      	   !     " #  $        *· ±    %        	 & '  $   ð     w6¢ p66*3 
++3™ *3  L+3  D66¢ 7*3 +3Ÿ *3š +3š *T§ *T„„§ÿÉ„§ÿ±    %   .    
+    /  <  Z  b  g  p  v  (   3 
+þ   ÿ   ) )  
+ÿ   ) )     	 * +  $  î    e² ¶ » Y² · :¶ >d¼:² 	¶ <¢ #¶ 6 T§ T„§ÿÞ² 
+¶ » Y² · :¶ 6d¼:² ¶ <¢ #¶ 6		 T§ T„§ÿÝ² ¶ ² 
+¶ » Y² · :	<¢ "3 
+² ¶ §
+² ¶ „§ÿß² ¶ <¢ "3 
+² ¶ §
+² ¶ „§ÿÞd6
+² ¶ ² 
+¶ <
+`¢ T„§ÿðd¼:<d¢ 3T„§ÿï² ¶ <
+`¢ "3 
+² ¶ §
+² ¶ „§ÿÜ¸ <=
+¢ ² 3T„„§ÿë² ¶ <
+¢ #² 3 
+² ¶ §
+² ¶ „§ÿÝ² ¶  –¼:<¢ 3T„§ÿð<=
+`¢ ² 3T„„§ÿé<
+`¢ "3 
+² ¶ §
+² ¶ „§ÿÜ² ¶ ² ¶ » Y² · :
+
+¶ 6¼:
+`Ÿ ² ¶ ¸ ² ¶ <
+`¢ #
+¶ 6 T§ T„§ÿÛ<
+`¢ 3T„§ÿí¸ ² ¶ d¼:<=
+`¢ 3T„„§ÿê<
+¢ "3 
+² ¶ §
+² ¶ „§ÿÞ6<
+¢ 3™ 	6§ 	„§ÿêš ² ¶ §² ¶ ±    %  Ê r   "  #  $  %   & ( ' / ) 6 * < + D - I ' O 0 W 1 c 2 j 3 p 4 x 5 € 7 ‡ 8  9 • ; š 5   = ¨ > ° ? ¼ @ Ã B Ë C Õ E Ü @ â G ê H ò J ú K M H P Q R' S1 T6 S< UB VJ WR VX X` Yj [r \| ^ƒ Y‰ a“ c d¦ c¯ e· f¿ gÈ hÒ jÙ fß lç mî nõ oý n p q p! r+ t3 u= wD rJ yR zZ {f |m }s ~| €„ ˆ ƒ „š †¡ ‡§ ˆ¯ Š´ „º ŒÄ Ì ŒÒ ŽÜ ä ê ‘ö ’þ ‘ “ ” •! —( “. ™1 š9 œ@ žC ŸF šL ¢Q £\ ¥d ¦ (   § 8ÿ *  ,   )  ü ú þ *  )ü ú ü  	ü ü  )	ÿ 
+  ,  )  )  )  	ü  )þ =  )	ü ú ü  )ü   - #  $          d¼³ ±    %         .    /
